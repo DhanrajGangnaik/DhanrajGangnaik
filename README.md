@@ -4,7 +4,7 @@
           alt="animated waving hand emoji"
           width="30"
           height="30"
-          style="margin-bottom: -10px" />
+           />
      I'm Dhanraj Gangnaik
 </h3>
 
