@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.git" width="40px">, I am Dhanraj Gangnaik!
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/header.svg" width="40px">, I am Dhanraj Gangnaik!
 
 <!--
 **DhanrajGangnaik/DhanrajGangnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
