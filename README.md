@@ -2,8 +2,8 @@
      Hi there    
      <img src="https://discordemoji.com/assets/emoji/wavegif_1860.gif"
           alt="animated waving hand emoji"
-          width="45"
-          height="45"
+          width="30"
+          height="30"
           style="margin-bottom: -10px" />
      I'm Dhanraj Gangnaik
 </h3>
