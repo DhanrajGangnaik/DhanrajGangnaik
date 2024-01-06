@@ -27,7 +27,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-
 ---
 
 <h3>My Stats<h3/>
-[![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanrajGangnaik)](https://github.com/DhanrajGangnaik/github-readme-stats)
+
 <!--
 **DhanrajGangnaik/DhanrajGangnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
