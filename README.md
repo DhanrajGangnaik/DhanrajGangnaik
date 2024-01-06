@@ -7,6 +7,8 @@
            />
      I'm Dhanraj Gangnaik
 </h3>
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdhanraj-gangnaik-b5b9131b8%2F?style=for-the-badge&logo=linkedin&label=LinkedIn%20Profile&labelColor=blue)
+
 
 <!--
 **DhanrajGangnaik/DhanrajGangnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
