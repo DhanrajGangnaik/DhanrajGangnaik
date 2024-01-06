@@ -4,9 +4,9 @@
           width="45"
           height="45"
           style="margin-bottom: -10px" />
-     I'm Philip
+     I am Dhanraj Gangnaik!
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/header.svg" >
-I am Dhanraj Gangnaik!
+
 
 <!--
 **DhanrajGangnaik/DhanrajGangnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
