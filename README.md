@@ -32,6 +32,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="PYTHON" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="DOCKER" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="ORACLE" width="55" height="55" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="JUPYTER" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
 </p>
 
 ---
