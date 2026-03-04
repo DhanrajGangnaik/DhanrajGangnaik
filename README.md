@@ -6,21 +6,32 @@
 <br>
 
 <p align="left">
-  Cloud & Cybersecurity Enthusiast • Homelab Builder • DevSecOps Learner • Always Experimenting
+  Cloud Infrastructure • DevOps • Cybersecurity • Self-Hosted Systems
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a tech-driven learner passionate about **cloud computing, cybersecurity, full-stack development, and self-hosted infrastructure**.  
-I love building systems that combine **automation, security, and scalability**, whether it's a secure web app, a Proxmox lab, or cloud-native architecture.
+I am an **Information Technology student specializing in Cloud Technology and Information Security**, focused on building **real-world infrastructure, secure systems, and cloud-native platforms**.
+
+My work revolves around designing and operating **production-style environments inside a homelab**, combining virtualization, container orchestration, observability, and automation.
+
+I enjoy building systems that integrate:
+
+• **Cloud & distributed infrastructure**  
+• **Kubernetes & container platforms**  
+• **Security engineering & threat monitoring**  
+• **DevOps pipelines & automation**  
+• **Self-hosted data and observability platforms**
+
+Most of my projects simulate **real enterprise architectures** such as private clouds, CI/CD farms, data platforms, and security monitoring systems.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Core Technologies
 
-### 💻 Programming & Scripting
+## 💻 Programming & Scripting
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45"/>
@@ -29,7 +40,13 @@ I love building systems that combine **automation, security, and scalability**, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" width="45"/>
 </p>
 
-### ⚙️ Backend / Frameworks
+• Automation scripts  
+• Infrastructure configuration  
+• Security tooling and log processing  
+
+---
+
+## ⚙️ Backend / Application Frameworks
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="45"/>
@@ -37,37 +54,77 @@ I love building systems that combine **automation, security, and scalability**, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45"/>
 </p>
 
-### 🎨 Frontend & UI
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="55"/>
-</p>
+• Secure backend services  
+• REST APIs  
+• Authentication and role-based access control  
 
-### 🧰 Tools, Platforms & DevOps
+---
+
+## 🏗️ Infrastructure & Virtualization
 <p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" width="50"/>
+</p>
+
+• **Proxmox VE cluster architecture**  
+• Virtual machines & LXC containers  
+• **Kubernetes / K3s / Talos clusters**  
+• Self-hosted private cloud infrastructure  
+• Infrastructure segmentation and networking  
+
+---
+
+## ⚙️ DevOps & Automation
+<p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50"/>
 </p>
 
+• CI/CD pipeline design  
+• Build automation & deployment pipelines  
+• Infrastructure version control  
+• GitOps workflows  
 
-### 🗄️ Databases
+---
+
+## 📊 Observability & Monitoring
+
+• **Prometheus**  
+• **Grafana**  
+• **Alertmanager**  
+• **ELK / centralized logging**  
+• Metrics collection and infrastructure health monitoring  
+
+Used for monitoring distributed systems and infrastructure reliability.
+
+---
+
+## 🗄️ Data Platforms & Databases
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50"/>
 </p>
+
+• PostgreSQL database administration  
+• Replication & WAL archiving  
+• Data pipeline experimentation  
+• High-availability database setups  
+
+---
+
+## 🔐 Security & Cybersecurity
+
+• Secure application design  
+• SQL injection detection systems  
+• Network monitoring and log analysis  
+• Threat detection using behavioral patterns  
 
 ---
 
 <p align="center">
-  ⚡ Always learning. Always building. Always improving.
+  ⚡ Building real infrastructure. Learning by operating systems at scale.
 </p>
-
