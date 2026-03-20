@@ -1,130 +1,151 @@
-<h3 align="left">
-  Hi there 👋  
-  I'm <b>Dhanraj Gangnaik</b>
-</h3>
-
-<br>
-
-<p align="left">
-  Cloud Infrastructure • DevOps • Cybersecurity • Self-Hosted Systems
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am an **Information Technology student specializing in Cloud Technology and Information Security**, focused on building **real-world infrastructure, secure systems, and cloud-native platforms**.
-
-My work revolves around designing and operating **production-style environments inside a homelab**, combining virtualization, container orchestration, observability, and automation.
-
-I enjoy building systems that integrate:
-
-• **Cloud & distributed infrastructure**  
-• **Kubernetes & container platforms**  
-• **Security engineering & threat monitoring**  
-• **DevOps pipelines & automation**  
-• **Self-hosted data and observability platforms**
-
-Most of my projects simulate **real enterprise architectures** such as private clouds, CI/CD farms, data platforms, and security monitoring systems.
-
----
-
-# 🛠️ Core Technologies
-
-## 💻 Programming & Scripting
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" width="45"/>
-</p>
-
-• Automation scripts  
-• Infrastructure configuration  
-• Security tooling and log processing  
-
----
-
-## ⚙️ Backend / Application Frameworks
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45"/>
-</p>
-
-• Secure backend services  
-• REST APIs  
-• Authentication and role-based access control  
-
----
-
-## 🏗️ Infrastructure & Virtualization
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" width="50"/>
-</p>
-
-• **Proxmox VE cluster architecture**  
-• Virtual machines & LXC containers  
-• **Kubernetes / K3s / Talos clusters**  
-• Self-hosted private cloud infrastructure  
-• Infrastructure segmentation and networking  
-
----
-
-## ⚙️ DevOps & Automation
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50"/>
-</p>
-
-• CI/CD pipeline design  
-• Build automation & deployment pipelines  
-• Infrastructure version control  
-• GitOps workflows  
-
----
-
-## 📊 Observability & Monitoring
-
-• **Prometheus**  
-• **Grafana**  
-• **Alertmanager**  
-• **ELK / centralized logging**  
-• Metrics collection and infrastructure health monitoring  
-
-Used for monitoring distributed systems and infrastructure reliability.
-
----
-
-## 🗄️ Data Platforms & Databases
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50"/>
-</p>
-
-• PostgreSQL database administration  
-• Replication & WAL archiving  
-• Data pipeline experimentation  
-• High-availability database setups  
-
----
-
-## 🔐 Security & Cybersecurity
-
-• Secure application design  
-• SQL injection detection systems  
-• Network monitoring and log analysis  
-• Threat detection using behavioral patterns  
-
----
+<h1 align="center">Hi, I'm Dhanraj Gangnaik 👋</h1>
+<h3 align="center">Cloud Infrastructure • DevOps • Cybersecurity • Self-Hosted Systems</h3>
 
 <p align="center">
-  ⚡ Building real infrastructure. Learning by operating systems at scale.
+  I build production-style infrastructure in a homelab environment, focusing on private cloud platforms,
+  Kubernetes operations, CI/CD automation, observability, and secure system design.
 </p>
+
+---
+
+## 🚀 About Me
+
+I am an **Information Technology student specializing in Cloud Technology and Information Security**, with a strong interest in designing and operating **real-world infrastructure systems**.
+
+My work focuses on building and improving:
+
+- **Self-hosted private cloud environments**
+- **Kubernetes and container platforms**
+- **Infrastructure-as-code and automation workflows**
+- **CI/CD pipelines and GitOps-based delivery**
+- **Observability, monitoring, and logging stacks**
+- **Security-focused platforms and threat monitoring systems**
+
+I enjoy taking complex infrastructure workflows and turning them into **automated, reproducible, and scalable systems**.
+
+---
+
+## 🔭 Current Focus
+
+- Building a **Self-Hosted Private Cloud**
+- Designing **automated deployment pipelines**
+- Working with **infrastructure-as-code workflows**
+- Learning **advanced cloud architecture patterns**
+- Improving **Kubernetes operations, networking, and observability**
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Cloud infrastructure projects
+- DevOps automation
+- Kubernetes and distributed systems
+- Self-hosting platforms
+- Monitoring, logging, and security engineering
+
+---
+
+## 🛠 Core Skills
+
+### Infrastructure & Platforms
+- Proxmox VE
+- Docker
+- Kubernetes
+- Rancher
+- Nginx
+- Terraform
+- Ansible
+- WireGuard
+- Ubiquiti
+- Cisco networking
+
+### Cloud & DevOps
+- AWS
+- Git
+- GitHub
+- GitHub Actions
+- Gitea
+- Jenkins
+- Infrastructure automation
+- CI/CD pipeline design
+- GitOps workflows
+
+### Observability & Data
+- Prometheus
+- Grafana
+- Elasticsearch
+- PostgreSQL
+- Redis
+- Pandas
+- NumPy
+- Matplotlib
+
+### Security
+- Secure system design
+- Threat monitoring
+- Log analysis
+- SQL injection detection concepts
+- Security-focused infrastructure engineering
+
+### Programming & Scripting
+- Python
+- Bash
+- JavaScript
+- PowerShell
+- Lua
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,aws,nginx,postgres,redis,docker,kubernetes,terraform,ansible,git,github,githubactions,jenkins,js,powershell,grafana,prometheus,elasticsearch,linux" />
+</p>
+
+---
+
+## 📌 Areas I Enjoy Working In
+
+- **Private cloud and self-hosted infrastructure**
+- **Kubernetes cluster operations**
+- **Automation and reproducible deployments**
+- **Observability and monitoring stacks**
+- **Secure backend systems**
+- **Distributed systems and platform engineering**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhanrajgangnaik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dhanrajgangnaik" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:dhanrajgangnaik47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanrajGangnaik&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanrajGangnaik&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DhanrajGangnaik&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## ⚡ Summary
+
+I like building **real infrastructure**, not just demos — systems that involve deployment pipelines, networking, observability, automation, security controls, and scalable operations.
+
+> Building, breaking, automating, and improving infrastructure — one system at a time.
