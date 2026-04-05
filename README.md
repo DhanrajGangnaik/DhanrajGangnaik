@@ -6,43 +6,77 @@
   Kubernetes operations, CI/CD automation, observability, and secure system design.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+private+cloud+infrastructure;Building+Kubernetes+and+CI%2FCD+systems;Working+on+observability%2C+automation%2C+and+security" alt="Typing SVG" />
+</p>
+
+```text
+dhanraj@homelab:~$ neofetch
+
+                  -`                     dhanraj@homelab
+                 .o+`                    -------------------------
+                `ooo/                    OS: IT Student | Cloud Tech & InfoSec
+               `+oooo:                   Role: Aspiring Cloud / DevOps / Platform Engineer
+              `+oooooo:                  Focus: Private Cloud, Kubernetes, Automation
+              -+oooooo+:                 Stack: Proxmox, Docker, Kubernetes, AWS
+            `/:-:++oooo+:                Obs: Prometheus, Grafana, Elasticsearch
+           `/++++/+++++++:               CI/CD: GitHub Actions, Gitea, Jenkins
+          `/++++++++++++++:              Security: Threat Monitoring, Secure System Design
+         `/+++ooooooooooooo/`            Shell: Python / Bash / PowerShell
+        ./ooosssso++osssssso+`           Uptime: Building real systems, not demos
+       .oossssso-````/ossssss+`          Motto: Automate. Observe. Secure. Scale.
+      -osssssso.      :ssssssso.
+     :osssssss/        osssso+++.
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/
+```
+
 ---
 
+```md
 ## 🚀 About Me
 
-I am an **Information Technology student specializing in Cloud Technology and Information Security**, with a strong interest in designing and operating **real-world infrastructure systems**.
+#!/usr/bin/env profile
 
-My work focuses on building and improving:
+name="Dhanraj Gangnaik"
+education="B.Tech IT | Cloud Technology and Information Security"
+interests=("Private Cloud" "Kubernetes" "CI/CD" "Observability" "Cybersecurity")
+approach="Build real, reproducible, automated infrastructure"
 
-- **Self-hosted private cloud environments**
-- **Kubernetes and container platforms**
-- **Infrastructure-as-code and automation workflows**
-- **CI/CD pipelines and GitOps-based delivery**
-- **Observability, monitoring, and logging stacks**
-- **Security-focused platforms and threat monitoring systems**
-
-I enjoy taking complex infrastructure workflows and turning them into **automated, reproducible, and scalable systems**.
+echo "I am an Information Technology student specializing in Cloud Technology and Information Security."
+echo "My work focuses on self-hosted infrastructure, platform engineering, automation workflows,"
+echo "monitoring stacks, and secure system design."
+echo "I enjoy turning complex infrastructure problems into scalable, production-style systems."
+```
 
 ---
 
+```md
 ## 🔭 Current Focus
-
-- Building a **Self-Hosted Private Cloud**
-- Designing **automated deployment pipelines**
-- Working with **infrastructure-as-code workflows**
-- Learning **advanced cloud architecture patterns**
-- Improving **Kubernetes operations, networking, and observability**
+┌──────────────────────────── Current Focus ────────────────────────────┐
+│ > Building a self-hosted private cloud                               │
+│ > Designing automated deployment pipelines                           │
+│ > Improving infrastructure-as-code workflows                         │
+│ > Learning advanced cloud architecture patterns                      │
+│ > Strengthening Kubernetes networking and observability              │
+└───────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🤝 Open to Collaborate On
+```md
+## ⚡ Engineering Philosophy
 
-- Cloud infrastructure projects
-- DevOps automation
-- Kubernetes and distributed systems
-- Self-hosting platforms
-- Monitoring, logging, and security engineering
-
+[ philosophy ]
+- Build systems that are reproducible
+- Prefer automation over manual operations
+- Treat observability as a core platform feature
+- Design for scale, recovery, and maintainability
+- Keep security integrated into the architecture
+```
 ---
 
 ## 🛠 Core Skills
