@@ -1,185 +1,121 @@
-<h1 align="center">Hi, I'm Dhanraj Gangnaik 👋</h1>
-<h3 align="center">Cloud Infrastructure • DevOps • Cybersecurity • Self-Hosted Systems</h3>
+<h1 align="center">Dhanraj Gangnaik</h1>
 
 <p align="center">
-  I build production-style infrastructure in a homelab environment, focusing on private cloud platforms,
-  Kubernetes operations, CI/CD automation, observability, and secure system design.
+<b>☁️ Cloud • ⚙️ DevOps • 🔐 Security • 🏠 Self-Hosted Systems</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+private+cloud+infrastructure;Building+Kubernetes+and+CI%2FCD+systems;Working+on+observability%2C+automation%2C+and+security" alt="Typing SVG" />
+I build production-style infrastructure in a homelab environment, focusing on private cloud platforms, Kubernetes operations, CI/CD automation, observability, and secure system design.
 </p>
 
-```text
-dhanraj@homelab:~$ neofetch
-
-                  -`                     dhanraj@homelab
-                 .o+`                    -------------------------
-                `ooo/                    OS: IT Student | Cloud Tech & InfoSec
-               `+oooo:                   Role: Aspiring Cloud / DevOps / Platform Engineer
-              `+oooooo:                  Focus: Private Cloud, Kubernetes, Automation
-              -+oooooo+:                 Stack: Proxmox, Docker, Kubernetes, AWS
-            `/:-:++oooo+:                Obs: Prometheus, Grafana, Elasticsearch
-           `/++++/+++++++:               CI/CD: GitHub Actions, Gitea, Jenkins
-          `/++++++++++++++:              Security: Threat Monitoring, Secure System Design
-         `/+++ooooooooooooo/`            Shell: Python / Bash / PowerShell
-        ./ooosssso++osssssso+`           Uptime: Building real systems, not demos
-       .oossssso-````/ossssss+`          Motto: Automate. Observe. Secure. Scale.
-      -osssssso.      :ssssssso.
-     :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-
- `+sso+:-`                 `.-/+oso:
-`++:.                           `-/+/
-.`                                 `/
-```
-
----
-
-```md
-## 🚀 About Me
-
-#!/usr/bin/env profile
-
-name="Dhanraj Gangnaik"
-education="B.Tech IT | Cloud Technology and Information Security"
-interests=("Private Cloud" "Kubernetes" "CI/CD" "Observability" "Cybersecurity")
-approach="Build real, reproducible, automated infrastructure"
-
-echo "I am an Information Technology student specializing in Cloud Technology and Information Security."
-echo "My work focuses on self-hosted infrastructure, platform engineering, automation workflows,"
-echo "monitoring stacks, and secure system design."
-echo "I enjoy turning complex infrastructure problems into scalable, production-style systems."
-```
-
----
-
-```md
-## 🔭 Current Focus
-┌──────────────────────────── Current Focus ────────────────────────────┐
-│ > Building a self-hosted private cloud                               │
-│ > Designing automated deployment pipelines                           │
-│ > Improving infrastructure-as-code workflows                         │
-│ > Learning advanced cloud architecture patterns                      │
-│ > Strengthening Kubernetes networking and observability              │
-└───────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-```md
-## ⚡ Engineering Philosophy
-
-[ philosophy ]
-- Build systems that are reproducible
-- Prefer automation over manual operations
-- Treat observability as a core platform feature
-- Design for scale, recovery, and maintainability
-- Keep security integrated into the architecture
-```
----
-
-## 🛠 Core Skills
-
-### Infrastructure & Platforms
-- Proxmox VE
-- Docker
-- Kubernetes
-- Rancher
-- Nginx
-- Terraform
-- Ansible
-- WireGuard
-- Ubiquiti
-- Cisco networking
-
-### Cloud & DevOps
-- AWS
-- Git
-- GitHub
-- GitHub Actions
-- Gitea
-- Jenkins
-- Infrastructure automation
-- CI/CD pipeline design
-- GitOps workflows
-
-### Observability & Data
-- Prometheus
-- Grafana
-- Elasticsearch
-- PostgreSQL
-- Redis
-- Pandas
-- NumPy
-- Matplotlib
-
-### Security
-- Secure system design
-- Threat monitoring
-- Log analysis
-- SQL injection detection concepts
-- Security-focused infrastructure engineering
-
-### Programming & Scripting
-- Python
-- Bash
-- JavaScript
-- PowerShell
-- Lua
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,aws,nginx,postgres,redis,docker,kubernetes,terraform,ansible,git,github,githubactions,jenkins,js,powershell,grafana,prometheus,elasticsearch,linux" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=booting+infrastructure...;initializing+clusters...;loading+observability+stack...;system+ready." />
 </p>
 
 ---
 
-## 📌 Areas I Enjoy Working In
+<pre style="white-space: pre-wrap; word-break: break-word;">
 
-- **Private cloud and self-hosted infrastructure**
-- **Kubernetes cluster operations**
-- **Automation and reproducible deployments**
-- **Observability and monitoring stacks**
-- **Secure backend systems**
-- **Distributed systems and platform engineering**
+dhanraj@system:~$
+
+
+         _nnnn_                          dhanraj@system
+        dGGGGMMb     ,"""""""""""""".    ----------------------------
+       @p~qp~~qMb    | Linux Rules! |    OS      : Cloud / DevOps / Security
+       M|@||@) M|   _;..............'    Role    : Platform Engineering
+       @,----.JM| -'                     Focus   : Kubernetes, Automation, Private Cloud
+      JS^\__/  qKL                       Stack   : Proxmox, Docker, K8s, AWS
+     dZP        qKRb                     Obs     : Prometheus, Grafana, Elasticsearch
+    dZP          qKKb                    CI/CD   : GitHub Actions, Gitea, Jenkins
+   fZP            SMMb                   Security: Monitoring, Secure System Design
+   HZM            MMMM                   Shell   : Python, Bash, PowerShell
+   FqM            MMMM                   Uptime  : Real systems, not demos
+ __| ".        |\dS"qML                  Motto   : Automate • Observe • Secure • Scale
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMM|   .'
+     `-'       `--'
+
+
+</pre>
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Arsenal
+
+### ⚙️ Infrastructure & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,terraform,ansible,haproxy" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,githubactions,jenkins" />
+</p>
+
+### 📊 Observability & Data
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,postgres,redis" />
+</p>
+
+### 💻 Programming & Scripting
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,js" />
+</p>
+
+---
+
+## 📡 Transmission & Telemetry
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=establishing+secure+channels...;publishing+activity+metrics...;transmission+ready." 
+  />
+</p>
+
+---
+
+### 🌐 Open Channels
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhanrajgangnaik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/dhanraj-gangnaik-b5b9131b8/" target="_blank">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/dhanrajgangnaik" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:dhanrajgangnaik47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/p2fY6UT7" target="_blank">
+    <img src="https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Final Log
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanrajGangnaik&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanrajGangnaik&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<pre>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhanrajGangnaik&theme=tokyonight&hide_border=true" height="170" />
-</p>
+I build real infrastructure — not just demos.
 
----
+My work combines:
+- deployment pipelines
+- networking and reverse proxies
+- observability and monitoring
+- automation workflows
+- security-focused architecture
+- scalable platform operations
 
-## ⚡ Summary
+Building. Breaking. Automating. Improving.
 
-I like building **real infrastructure**, not just demos — systems that involve deployment pipelines, networking, observability, automation, security controls, and scalable operations.
+</pre>
 
-> Building, breaking, automating, and improving infrastructure — one system at a time.
+
+
+
+
