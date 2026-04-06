@@ -65,16 +65,6 @@ _)      \.___.,|     .'
 
 ---
 
-## 📡 Transmission & Telemetry
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=establishing+secure+channels...;publishing+activity+metrics...;transmission+ready." 
-  />
-</p>
-
----
-
 ### 🌐 Open Channels
 
 <p align="left">
